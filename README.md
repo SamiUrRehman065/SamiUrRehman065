@@ -26,8 +26,6 @@ I’m passionate about learning how technology can solve real-world problems—f
 
 ---
 
----
-
 ## 🚀 Projects Snapshot
 
 I’ve worked on a range of personal and academic projects—from management systems and APIs to learning platforms and event apps. These reflect my growing skills in .NET development, frontend design, and database integration.
