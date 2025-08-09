@@ -4,7 +4,7 @@
 
 Welcome to my corner of GitHub, where curiosity meets clean code.
 
-I’m passionate about learning how technology can solve real-world problems—from software design and development to exploring the broader landscape of innovation. Whether it’s diving into code, collaborating with others, or refining solutions over time, I love the process of growing through what I build.
+I’m passionate about learning how technology can solve real-world problems-from software design and development to exploring the broader landscape of innovation. Whether it’s diving into code, collaborating with others, or refining solutions over time, I love the process of growing through what I build.
 
 ---
 
